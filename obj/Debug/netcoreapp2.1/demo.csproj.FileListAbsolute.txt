@@ -1,0 +1,14 @@
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.deps.json
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.json
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.runtimeconfig.dev.json
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.dll
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\bin\Debug\netcoreapp2.1\demo.pdb
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csprojAssemblyReference.cache
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.csproj.CoreCompileInputs.cache
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cache
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorAssemblyInfo.cs
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfoInputs.cache
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.AssemblyInfo.cs
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.RazorTargetAssemblyInfo.cache
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.dll
+C:\Users\yalnajm\Documents\Azure\demo-web-app\demo\obj\Debug\netcoreapp2.1\demo.pdb
